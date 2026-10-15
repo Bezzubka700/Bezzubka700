@@ -1,5 +1,11 @@
 ## Hi there 👋
+I am new here :)
 
+## What am I doing here?
+I am learning a lot of new useful things in github.
+
+## And what am I going to do?
+Well... I will try to learn as much new things as I can!
 <!--
 **Bezzubka700/Bezzubka700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
